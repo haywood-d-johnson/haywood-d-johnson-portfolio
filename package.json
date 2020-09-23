@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "personal portfolio site",
+  "main": "index.js",
+  "author": "Haywood D. Johnson",
+  "license": "MIT"
+}
